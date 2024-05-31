@@ -1,7 +1,7 @@
 import java.util.function.Predicate;
 
 public class CalculateSalary {
-
+//ghhvvhjhjv
     public boolean calculate(double salary) {
 
         int percentage = 8;
